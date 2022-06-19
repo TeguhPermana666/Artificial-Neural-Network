@@ -7,4 +7,5 @@ Exercise ANN with Keras Tensorflow
  - Backprogation precptron -> gradient descent prespective
     - Forward pass : prediction probabilitas
     - Backward pass : Kalkulasi error |W|
- - Fashion MNSIT -> CLASSIFICATION COMPUTER VISION EXERCISE
+ - Fashion MNSIT -> CLASSIFICATION COMPUTER VISION EXERCISE 
+ - Regresion used ANN by using california fecth data label price

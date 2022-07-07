@@ -12,4 +12,6 @@ Exercise ANN with Keras Tensorflow
  - Save and load model
  - callbacks of Checkpoint
  - Visualization monitoring model TensorBoard
+   ![image](https://user-images.githubusercontent.com/87234353/177781026-46774507-5b61-428d-8b82-ea53437f418f.png)
+
  
